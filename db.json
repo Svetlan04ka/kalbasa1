@@ -25,51 +25,51 @@
     "products": [
         {
             "id": 1,
-            "name": "LED display",
+            "name": "Strawberry",
             "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
             "price": 92,
             "author_id": 1,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBibC0bhikJy7TSokMkOgcwLenHULLiWp-A&s"
         },
         {
             "id": 2,
-            "name": "Arduino UNO",
+            "name": "Bluberry",
             "description": "Brand new and high quality.",
             "price": 180,
             "author_id": 3,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+            "photo_url": "https://images.prom.ua/3185532658_w640_h320_golubika-yagoda-svezhaya.jpg"
         },
         {
             "id": 3,
-            "name": "ESP8266 5V",
+            "name": "Banana",
             "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
             "price": 300,
             "author_id": 2,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/wifi.jpeg"
+            "photo_url": "https://winetime.com.ua/uploads/symlink/47000-48000/1585225128_63618.jpg"
         },
         {
             "id": 4,
-            "name": "RGB",
+            "name": "Lemon",
             "description": "Can make color party.",
             "price": 92,
             "author_id": 1,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsZuDngttY9tdsDjIblUb8zNlB_BZJ-iMCDA&s"
         },
         {
             "id": 5,
-            "name": "Resistor 10k Ohm",
+            "name": "Apelsin",
             "description": "Can resist the voltage. Super cool.",
             "price": 180,
             "author_id": 3,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/resistor.png"
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ34tQU4KT7bz5K4NwvfICn9ADc5mFQ3Kdziw&s"
         },
         {
             "id": 6,
-            "name": "7-Segment Display",
+            "name": "Mandarin",
             "description": "Epic.",
             "price": 300,
             "author_id": 2,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/7-seg.jpg"
+            "photo_url": "https://fruit-time.ua/images/cache/products/57/mandarin-aixan-imp-500x500.jpeg"
         }
     ]
 }
